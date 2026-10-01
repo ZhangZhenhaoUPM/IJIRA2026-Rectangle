@@ -1,0 +1,297 @@
+{
+  "datasets": {
+    "robotathome80": {
+      "mode": "graph",
+      "group": "fine150_n2_original",
+      "ranking": "combined_area",
+      "boundary_min": 0.35,
+      "score_min": 0.55,
+      "cap": 2
+    },
+    "isaacsim50": {
+      "mode": "centroid",
+      "group": "angle1.0",
+      "ranking": "closure_area",
+      "boundary_min": 0.35,
+      "score_min": 0.65,
+      "cap": 4,
+      "minimum_line_length": 8
+    },
+    "smartdoc90": {
+      "mode": "normalized",
+      "variant": "resize768_clahe_low",
+      "ranking": "boundary_area",
+      "cap": 1,
+      "threshold": 0.7
+    }
+  },
+  "pool_protocols": {
+    "protocols/base.json": {
+      "detector": {
+        "elongation_factor": {
+          "$shared": "elongation_factor"
+        },
+        "rects_min_area_factor": {
+          "$shared": "rects_min_area_factor"
+        },
+        "rects_max_area_factor": {
+          "$shared": "rects_max_area_factor"
+        },
+        "compactness_threshold": {
+          "$shared": "compactness_threshold"
+        },
+        "length_diff_threshold": {
+          "$shared": "length_diff_threshold"
+        },
+        "nms_threshold": {
+          "$shared": "nms_threshold"
+        },
+        "lineImg_drawing_width": 1,
+        "rectImg_drawing_width": 2,
+        "draw_graph": true,
+        "draw_trapezoids": true,
+        "whiteness_threshold": {
+          "$shared": "whiteness_threshold"
+        },
+        "angle_threshold": {
+          "$shared": "angle_threshold"
+        },
+        "max_num_trapezoids": 20
+      }
+    },
+    "protocols/graph.json": {
+      "variants": {
+        "short110_n4": [
+          {
+            "$shared": "elongation_factor"
+          },
+          {
+            "$shared": "nms_threshold"
+          }
+        ],
+        "fine125_n2": [
+          {
+            "$shared": "elongation_factor"
+          },
+          {
+            "$shared": "nms_threshold"
+          }
+        ],
+        "coarse125_n8": [
+          {
+            "$shared": "elongation_factor"
+          },
+          {
+            "$shared": "nms_threshold"
+          }
+        ],
+        "fine150_n2": [
+          {
+            "$shared": "elongation_factor"
+          },
+          {
+            "$shared": "nms_threshold"
+          }
+        ]
+      },
+      "geometries": {
+        "original": {
+          "compactness_threshold": {
+            "$shared": "compactness_threshold"
+          },
+          "length_diff_threshold": {
+            "$shared": "length_diff_threshold"
+          },
+          "angle_threshold": {
+            "$shared": "angle_threshold"
+          },
+          "rects_min_area_factor": {
+            "$shared": "rects_min_area_factor"
+          },
+          "rects_max_area_factor": {
+            "$shared": "rects_max_area_factor"
+          }
+        },
+        "permissive": {
+          "compactness_threshold": {
+            "$shared": "compactness_threshold"
+          },
+          "length_diff_threshold": {
+            "$shared": "length_diff_threshold"
+          },
+          "angle_threshold": {
+            "$shared": "angle_threshold"
+          },
+          "rects_min_area_factor": {
+            "$shared": "rects_min_area_factor"
+          },
+          "rects_max_area_factor": {
+            "$shared": "rects_max_area_factor"
+          }
+        }
+      },
+      "whiteness": [
+        {
+          "$shared": "whiteness_threshold"
+        }
+      ],
+      "candidate_cap": 2000
+    },
+    "protocols/centroid_fld.json": {
+      "variants": {
+        "short110_n4": [
+          {
+            "$shared": "elongation_factor"
+          },
+          {
+            "$shared": "nms_threshold"
+          }
+        ],
+        "fine125_n2": [
+          {
+            "$shared": "elongation_factor"
+          },
+          {
+            "$shared": "nms_threshold"
+          }
+        ],
+        "coarse125_n8": [
+          {
+            "$shared": "elongation_factor"
+          },
+          {
+            "$shared": "nms_threshold"
+          }
+        ],
+        "fine150_n2": [
+          {
+            "$shared": "elongation_factor"
+          },
+          {
+            "$shared": "nms_threshold"
+          }
+        ]
+      },
+      "geometries": {
+        "angle0.5": {
+          "compactness_threshold": {
+            "$shared": "compactness_threshold"
+          },
+          "length_diff_threshold": {
+            "$shared": "length_diff_threshold"
+          },
+          "angle_threshold": {
+            "$shared": "angle_threshold"
+          },
+          "rects_min_area_factor": {
+            "$shared": "rects_min_area_factor"
+          },
+          "rects_max_area_factor": {
+            "$shared": "rects_max_area_factor"
+          }
+        },
+        "angle0.8": {
+          "compactness_threshold": {
+            "$shared": "compactness_threshold"
+          },
+          "length_diff_threshold": {
+            "$shared": "length_diff_threshold"
+          },
+          "angle_threshold": {
+            "$shared": "angle_threshold"
+          },
+          "rects_min_area_factor": {
+            "$shared": "rects_min_area_factor"
+          },
+          "rects_max_area_factor": {
+            "$shared": "rects_max_area_factor"
+          }
+        },
+        "angle1.0": {
+          "compactness_threshold": {
+            "$shared": "compactness_threshold"
+          },
+          "length_diff_threshold": {
+            "$shared": "length_diff_threshold"
+          },
+          "angle_threshold": {
+            "$shared": "angle_threshold"
+          },
+          "rects_min_area_factor": {
+            "$shared": "rects_min_area_factor"
+          },
+          "rects_max_area_factor": {
+            "$shared": "rects_max_area_factor"
+          }
+        }
+      },
+      "whiteness": [
+        {
+          "$shared": "whiteness_threshold"
+        }
+      ],
+      "candidate_cap": 2000
+    },
+    "protocols/normalized_fld.json": {
+      "variants": {
+        "resize768_otsu": {
+          "clahe": false,
+          "canny_scale": 1.0
+        },
+        "resize768_clahe_low": {
+          "clahe": true,
+          "canny_scale": 0.5
+        }
+      },
+      "max_working_side": 768,
+      "minimum_line_length": 10,
+      "elongation": [
+        {
+          "$shared": "elongation_factor"
+        }
+      ],
+      "geometries": {
+        "original": {
+          "compactness_threshold": {
+            "$shared": "compactness_threshold"
+          },
+          "length_diff_threshold": {
+            "$shared": "length_diff_threshold"
+          },
+          "angle_threshold": {
+            "$shared": "angle_threshold"
+          },
+          "rects_min_area_factor": {
+            "$shared": "rects_min_area_factor"
+          },
+          "rects_max_area_factor": {
+            "$shared": "rects_max_area_factor"
+          }
+        },
+        "permissive": {
+          "compactness_threshold": {
+            "$shared": "compactness_threshold"
+          },
+          "length_diff_threshold": {
+            "$shared": "length_diff_threshold"
+          },
+          "angle_threshold": {
+            "$shared": "angle_threshold"
+          },
+          "rects_min_area_factor": {
+            "$shared": "rects_min_area_factor"
+          },
+          "rects_max_area_factor": {
+            "$shared": "rects_max_area_factor"
+          }
+        }
+      },
+      "candidate_cap_per_pool": 500,
+      "whiteness": [
+        {
+          "$shared": "whiteness_threshold"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "other-checkpoints/dexi.pth": "bd4c603ef71113b447bffb72a73b9a54ca890e78f4bc8f34cb73f1efb2681e74",
+  "other-checkpoints/M-LSD_512_large_fp16.tflite": "34c470216a905c4850771ce2bfc5e13079d99799aaa5726dd51a985fb62b0b8b",
+  "yolo-checkpoints/isaacsim50.pt": "aa67d8a18ad8118c66d8be23e3218f1675f7fd7595a1ed46342001c3b4c5e2e1",
+  "yolo-checkpoints/robotathome80.pt": "0ded914351df459635f6e0a6e6aa8e999053fdcb91ae2100e58933204d9d4718",
+  "yolo-checkpoints/smartdoc90.pt": "d5824292297369b6f03475e4392edee768873fecfb018b091a85f94f0dbffaee",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold1.pt": "21a73cc6116605c6a0329ae6ebebbfd6a69fcf9e8779d49ea43e1ec18073dcae",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold10.pt": "994ccf6f8055fa09b43fdd22a74a31605425f7c4f33a1f79a06ef8f01f0b8177",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold2.pt": "fc6135a36a73b486657fba1eff3b2109e0c4e6db5d7552ff7a21a6f69f67a757",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold3.pt": "71cb8de7d0b36c406f844a4848bdc42eb6082813538a855025a862fbad23337c",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold4.pt": "1c990c54c47c7c51c68eea42fa727f2ed7ffe60bc4f3617e9c00e3421d6a00fd",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold5.pt": "bb76d7e843be3607e14502ae60957fcf00972b9b3236eaf247ab55da039d22f7",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold6.pt": "f1f17f0e1ff35277f9f78b59e9ff20269569ab0ad6b518450542cc090534e639",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold7.pt": "177de6b8ee9db882aa87f5786ebbda9b596c6b62909aadf67a38e69c472353b3",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold8.pt": "88622b4a074979e1922e7bc71bb12b0781e6be2132b4da8b5037b31930abcc4e",
+  "yolo-checkpoints/yolo-br_isaacsim50_fold9.pt": "92c5158f6d44bc3e229881827d4fb3abd961ef7970ed7be3152be22512543aed",
+  "yolo-checkpoints/yolo-br_robotathome80.pt": "12d5e7434e62e57ce095bd80c8c05678f1fdeda685a807b44e4143f827df7b07",
+  "yolo-checkpoints/yolo-br_smartdoc90.pt": "d5824292297369b6f03475e4392edee768873fecfb018b091a85f94f0dbffaee"
+}

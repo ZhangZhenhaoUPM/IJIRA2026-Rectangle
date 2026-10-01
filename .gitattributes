@@ -1,0 +1,2 @@
+# Preserve release file bytes for SHA256 verification on every platform.
+* -text

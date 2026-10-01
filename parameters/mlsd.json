@@ -1,0 +1,47 @@
+{
+  "isaacsim50": {
+    "params": {
+      "score": 0.2,
+      "outside_ratio": 0.1,
+      "inside_ratio": 0.45,
+      "w_overlap": 0.10985010852857334,
+      "w_degree": 0.4978825355401587,
+      "w_length": 0.19857507143765116,
+      "w_area": 0.0035906218718937473,
+      "w_center": 0.19010166262172298
+    },
+    "top_k": 6,
+    "selected_on": "reported_dataset",
+    "training": false,
+    "source_modified": false
+  },
+  "robotathome80": {
+    "params": {
+      "score": 0.2,
+      "outside_ratio": 0.28,
+      "inside_ratio": 0.45,
+      "w_overlap": 0.0,
+      "w_degree": 0.1499603775553204,
+      "w_length": 0.1886717238569703,
+      "w_area": 0.0,
+      "w_center": 0.0
+    },
+    "top_k": 6,
+    "selected_on": "reported_dataset",
+    "training": false,
+    "source_modified": false
+  },
+  "smartdoc90": {
+    "params": {
+      "score": 0.1,
+      "outside_ratio": 0.1,
+      "inside_ratio": 0.5,
+      "w_overlap": 0.0,
+      "w_degree": 1.14,
+      "w_length": 0.03,
+      "w_area": 1.84,
+      "w_center": 1.46
+    },
+    "top_k": 1
+  }
+}

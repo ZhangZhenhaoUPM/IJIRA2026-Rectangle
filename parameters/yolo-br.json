@@ -1,0 +1,147 @@
+{
+  "robotathome80": {
+    "mode": "P0",
+    "confidence": 0.125,
+    "nms": 0.5,
+    "protocol": "fixed_checkpoint",
+    "checkpoint": "yolo-checkpoints/yolo-br_robotathome80.pt",
+    "sha256": "12d5e7434e62e57ce095bd80c8c05678f1fdeda685a807b44e4143f827df7b07",
+    "seed": 2,
+    "crop_policy": "floor_first_fixed15",
+    "fixed_padding": 15,
+    "min_side_coverage": 0.5,
+    "min_bbox_affinity": 0.5
+  },
+  "isaacsim50": {
+    "mode": "P0",
+    "confidence": 0.05,
+    "nms": 0.5,
+    "protocol": "image_10fold_oof",
+    "folds": [
+      {
+        "names": [
+          "2.jpg",
+          "10.jpg",
+          "22.jpg",
+          "25.jpg",
+          "47.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold1.pt",
+        "sha256": "21a73cc6116605c6a0329ae6ebebbfd6a69fcf9e8779d49ea43e1ec18073dcae"
+      },
+      {
+        "names": [
+          "5.jpg",
+          "21.jpg",
+          "36.jpg",
+          "44.jpg",
+          "50.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold10.pt",
+        "sha256": "994ccf6f8055fa09b43fdd22a74a31605425f7c4f33a1f79a06ef8f01f0b8177"
+      },
+      {
+        "names": [
+          "1.jpg",
+          "11.jpg",
+          "16.jpg",
+          "20.jpg",
+          "37.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold2.pt",
+        "sha256": "fc6135a36a73b486657fba1eff3b2109e0c4e6db5d7552ff7a21a6f69f67a757"
+      },
+      {
+        "names": [
+          "13.jpg",
+          "23.jpg",
+          "35.jpg",
+          "42.jpg",
+          "49.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold3.pt",
+        "sha256": "71cb8de7d0b36c406f844a4848bdc42eb6082813538a855025a862fbad23337c"
+      },
+      {
+        "names": [
+          "7.jpg",
+          "9.jpg",
+          "12.jpg",
+          "26.jpg",
+          "46.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold4.pt",
+        "sha256": "1c990c54c47c7c51c68eea42fa727f2ed7ffe60bc4f3617e9c00e3421d6a00fd"
+      },
+      {
+        "names": [
+          "6.jpg",
+          "8.jpg",
+          "14.jpg",
+          "28.jpg",
+          "38.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold5.pt",
+        "sha256": "bb76d7e843be3607e14502ae60957fcf00972b9b3236eaf247ab55da039d22f7"
+      },
+      {
+        "names": [
+          "4.jpg",
+          "17.jpg",
+          "18.jpg",
+          "29.jpg",
+          "39.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold6.pt",
+        "sha256": "f1f17f0e1ff35277f9f78b59e9ff20269569ab0ad6b518450542cc090534e639"
+      },
+      {
+        "names": [
+          "15.jpg",
+          "19.jpg",
+          "30.jpg",
+          "32.jpg",
+          "40.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold7.pt",
+        "sha256": "177de6b8ee9db882aa87f5786ebbda9b596c6b62909aadf67a38e69c472353b3"
+      },
+      {
+        "names": [
+          "24.jpg",
+          "31.jpg",
+          "33.jpg",
+          "43.jpg",
+          "48.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold8.pt",
+        "sha256": "88622b4a074979e1922e7bc71bb12b0781e6be2132b4da8b5037b31930abcc4e"
+      },
+      {
+        "names": [
+          "3.jpg",
+          "27.jpg",
+          "34.jpg",
+          "41.jpg",
+          "45.jpg"
+        ],
+        "checkpoint": "yolo-checkpoints/yolo-br_isaacsim50_fold9.pt",
+        "sha256": "92c5158f6d44bc3e229881827d4fb3abd961ef7970ed7be3152be22512543aed"
+      }
+    ],
+    "fixed_padding": 15,
+    "min_side_coverage": 0.5,
+    "min_bbox_affinity": 0.5
+  },
+  "smartdoc90": {
+    "mode": "P0",
+    "confidence": 0.1,
+    "nms": 0.5,
+    "protocol": "fixed_checkpoint",
+    "checkpoint": "yolo-checkpoints/yolo-br_smartdoc90.pt",
+    "sha256": "d5824292297369b6f03475e4392edee768873fecfb018b091a85f94f0dbffaee",
+    "fixed_padding": 15,
+    "min_side_coverage": 0.5,
+    "min_bbox_affinity": 0.5
+  }
+}

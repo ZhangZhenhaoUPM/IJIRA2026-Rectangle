@@ -1,0 +1,101 @@
+{
+  "datasets": {
+    "robotathome80": {
+      "closing": 3,
+      "canny": [
+        20,
+        200
+      ],
+      "epsilon": 0.02,
+      "nms_metric": "polygon",
+      "nms_iou": 0.3,
+      "max_vertices": 10,
+      "area_min": 500,
+      "area_max": 50000,
+      "min_rectangularity": 0.8,
+      "expansion": 10,
+      "working_longside": 320,
+      "candidate_cap": 50,
+      "deduplicate_before_cap": true,
+      "parent_iou_min": 0.4
+    },
+    "isaacsim50": {
+      "closing": 3,
+      "canny": [
+        20,
+        30
+      ],
+      "epsilon": 0.02,
+      "nms_metric": "polygon",
+      "nms_iou": 0.35,
+      "max_vertices": 5,
+      "area_min": 500,
+      "area_max": 50000,
+      "min_rectangularity": 0.72,
+      "expansion": 10,
+      "working_longside": 320,
+      "candidate_cap": 200,
+      "deduplicate_before_cap": false,
+      "parent_iou_min": 0.3
+    },
+    "smartdoc90": {
+      "closing": 7,
+      "canny": [
+        20,
+        100
+      ],
+      "epsilon": 0.02,
+      "nms_metric": "axis_aligned_bbox",
+      "nms_iou": 0.3,
+      "max_vertices": 5,
+      "area_min": 500,
+      "area_max": 50000,
+      "min_rectangularity": 0.72,
+      "expansion": 10,
+      "working_longside": 320,
+      "candidate_cap": 50,
+      "deduplicate_before_cap": false,
+      "parent_iou_min": 0.3
+    }
+  },
+  "frontends": {
+    "isaacsim50": {
+      "resolution": "native",
+      "minimum_line_length": 8,
+      "saturation": 0.5,
+      "brightness": 0.5,
+      "canny_gain": 1
+    },
+    "robotathome80": {
+      "resolution": "native",
+      "minimum_line_length": 15,
+      "saturation": 0.5,
+      "brightness": 0.5,
+      "canny_gain": 1
+    },
+    "smartdoc90": {
+      "max_longside": 768,
+      "minimum_line_length": 10,
+      "clahe_clip": 2,
+      "clahe_tile": [
+        8,
+        8
+      ],
+      "canny_gain": 0.5
+    }
+  },
+  "smartdoc_frontend": {
+    "max_working_side": 768,
+    "minimum_line_length": 10,
+    "variants": {
+      "resize768_otsu": {
+        "clahe": false,
+        "canny_scale": 1.0
+      },
+      "resize768_clahe_low": {
+        "clahe": true,
+        "canny_scale": 0.5
+      }
+    }
+  }
+}

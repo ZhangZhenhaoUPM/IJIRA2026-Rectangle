@@ -1,0 +1,32 @@
+{
+  "robotathome80": {
+    "elongation_factor": 1.8,
+    "whiteness_threshold": 0.85,
+    "angle_threshold": 0.5,
+    "compactness_threshold": 0.22,
+    "length_diff_threshold": 0.25,
+    "rects_min_area_factor": 0.001,
+    "rects_max_area_factor": 0.95,
+    "nms_threshold": 4
+  },
+  "isaacsim50": {
+    "elongation_factor": 1.7,
+    "whiteness_threshold": 0.85,
+    "angle_threshold": 1,
+    "compactness_threshold": 0.1,
+    "length_diff_threshold": 0.1,
+    "rects_min_area_factor": 0.0005,
+    "rects_max_area_factor": 0.9,
+    "nms_threshold": 3
+  },
+  "smartdoc90": {
+    "elongation_factor": 2,
+    "whiteness_threshold": 0.7,
+    "angle_threshold": 0.5,
+    "compactness_threshold": 0.15,
+    "length_diff_threshold": 0.2,
+    "rects_min_area_factor": 0.001,
+    "rects_max_area_factor": 0.95,
+    "nms_threshold": 4
+  }
+}

@@ -1,0 +1,2612 @@
+[
+  {
+    "name": "background01__datasheet001__frame_0133.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          825.0,
+          185.625
+        ],
+        [
+          1230.0,
+          163.125
+        ],
+        [
+          1357.5,
+          796.875
+        ],
+        [
+          885.0,
+          838.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.225555312111956
+    ],
+    "candidate_count": 5,
+    "seconds": 0.24436576617881656
+  },
+  {
+    "name": "background01__datasheet002__frame_0055.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          832.5,
+          210.0
+        ],
+        [
+          1237.5,
+          172.5
+        ],
+        [
+          1477.5,
+          729.375
+        ],
+        [
+          997.5,
+          813.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.0899270047319802
+    ],
+    "candidate_count": 89,
+    "seconds": 0.2271295916289091
+  },
+  {
+    "name": "background01__datasheet003__frame_0037.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          562.5,
+          189.375
+        ],
+        [
+          1027.5,
+          189.375
+        ],
+        [
+          1072.5,
+          796.875
+        ],
+        [
+          540.0,
+          813.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.2070875868666913
+    ],
+    "candidate_count": 38,
+    "seconds": 0.224149608053267
+  },
+  {
+    "name": "background01__datasheet004__frame_0003.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          652.5,
+          236.25
+        ],
+        [
+          1125.0,
+          226.875
+        ],
+        [
+          1192.5,
+          894.375
+        ],
+        [
+          652.5,
+          918.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.3495149567291727
+    ],
+    "candidate_count": 9,
+    "seconds": 0.2238440066576004
+  },
+  {
+    "name": "background01__datasheet005__frame_0206.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          705.0,
+          168.75
+        ],
+        [
+          1155.0,
+          168.75
+        ],
+        [
+          1245.0,
+          783.75
+        ],
+        [
+          720.0,
+          810.0
+        ]
+      ]
+    ],
+    "scores": [
+      1.2713319783075137
+    ],
+    "candidate_count": 6,
+    "seconds": 0.2254180540330708
+  },
+  {
+    "name": "background01__letter001__frame_0177.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          735.0,
+          202.5
+        ],
+        [
+          1185.0,
+          163.125
+        ],
+        [
+          1380.0,
+          780.0
+        ],
+        [
+          847.5,
+          868.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.2489928098299792
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22439744882285595
+  },
+  {
+    "name": "background01__letter002__frame_0135.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          742.5,
+          213.75
+        ],
+        [
+          1162.5,
+          206.25
+        ],
+        [
+          1282.5,
+          759.375
+        ],
+        [
+          772.5,
+          787.5
+        ]
+      ]
+    ],
+    "scores": [
+      1.2403832448105927
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22394706681370735
+  },
+  {
+    "name": "background01__letter003__frame_0202.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          712.5,
+          247.5
+        ],
+        [
+          1132.5,
+          273.75
+        ],
+        [
+          1147.5,
+          864.375
+        ],
+        [
+          622.5,
+          830.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.2751273974226134
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22550768498331308
+  },
+  {
+    "name": "background01__letter004__frame_0141.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          765.0,
+          172.5
+        ],
+        [
+          1245.0,
+          176.25
+        ],
+        [
+          1387.5,
+          830.625
+        ],
+        [
+          780.0,
+          847.5
+        ]
+      ]
+    ],
+    "scores": [
+      1.302621366404778
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22262441227212548
+  },
+  {
+    "name": "background01__letter005__frame_0102.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          742.5,
+          307.5
+        ],
+        [
+          1072.5,
+          230.625
+        ],
+        [
+          1327.5,
+          628.125
+        ],
+        [
+          960.0,
+          759.375
+        ]
+      ]
+    ],
+    "scores": [
+      1.060809332841509
+    ],
+    "candidate_count": 2,
+    "seconds": 0.22139888629317284
+  },
+  {
+    "name": "background01__magazine001__frame_0104.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          697.5,
+          236.25
+        ],
+        [
+          1132.5,
+          247.5
+        ],
+        [
+          1185.0,
+          847.5
+        ],
+        [
+          652.5,
+          847.5
+        ]
+      ]
+    ],
+    "scores": [
+      1.3166664827688357
+    ],
+    "candidate_count": 130,
+    "seconds": 0.22427676897495985
+  },
+  {
+    "name": "background01__magazine002__frame_0056.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          810.0,
+          230.625
+        ],
+        [
+          1080.0,
+          253.125
+        ],
+        [
+          1042.5,
+          787.5
+        ],
+        [
+          712.5,
+          753.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.1801804890658123
+    ],
+    "candidate_count": 54,
+    "seconds": 0.22418146906420588
+  },
+  {
+    "name": "background01__magazine003__frame_0151.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          382.5,
+          236.25
+        ],
+        [
+          787.5,
+          273.75
+        ],
+        [
+          682.5,
+          793.125
+        ],
+        [
+          210.0,
+          763.125
+        ]
+      ]
+    ],
+    "scores": [
+      0.8472686491560866
+    ],
+    "candidate_count": 42,
+    "seconds": 0.2255068738013506
+  },
+  {
+    "name": "background01__magazine004__frame_0120.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          697.5,
+          193.125
+        ],
+        [
+          1155.0,
+          210.0
+        ],
+        [
+          1170.0,
+          855.0
+        ],
+        [
+          607.5,
+          838.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.3324578685351534
+    ],
+    "candidate_count": 57,
+    "seconds": 0.22674388997256756
+  },
+  {
+    "name": "background01__magazine005__frame_0168.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          832.5,
+          260.625
+        ],
+        [
+          1117.5,
+          189.375
+        ],
+        [
+          1357.5,
+          733.125
+        ],
+        [
+          1042.5,
+          830.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.1177477506798952
+    ],
+    "candidate_count": 76,
+    "seconds": 0.2258077459409833
+  },
+  {
+    "name": "background01__paper001__frame_0065.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          555.0,
+          219.375
+        ],
+        [
+          997.5,
+          206.25
+        ],
+        [
+          1027.5,
+          855.0
+        ],
+        [
+          495.0,
+          871.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.1883926818543757
+    ],
+    "candidate_count": 34,
+    "seconds": 0.2247826112434268
+  },
+  {
+    "name": "background01__paper002__frame_0105.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          735.0,
+          270.0
+        ],
+        [
+          1155.0,
+          210.0
+        ],
+        [
+          1290.0,
+          770.625
+        ],
+        [
+          825.0,
+          847.5
+        ]
+      ]
+    ],
+    "scores": [
+      1.3097670490374342
+    ],
+    "candidate_count": 184,
+    "seconds": 0.23026482621207833
+  },
+  {
+    "name": "background01__paper003__frame_0061.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          802.5,
+          371.25
+        ],
+        [
+          1155.0,
+          328.125
+        ],
+        [
+          1335.0,
+          699.375
+        ],
+        [
+          900.0,
+          742.5
+        ]
+      ]
+    ],
+    "scores": [
+      1.1231957784707696
+    ],
+    "candidate_count": 12,
+    "seconds": 0.2247232310473919
+  },
+  {
+    "name": "background01__paper004__frame_0130.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          690.0,
+          206.25
+        ],
+        [
+          1177.5,
+          189.375
+        ],
+        [
+          1327.5,
+          834.375
+        ],
+        [
+          705.0,
+          871.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.378762357059541
+    ],
+    "candidate_count": 667,
+    "seconds": 0.2371848952025175
+  },
+  {
+    "name": "background01__paper005__frame_0001.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          705.0,
+          236.25
+        ],
+        [
+          1102.5,
+          230.625
+        ],
+        [
+          1177.5,
+          776.25
+        ],
+        [
+          690.0,
+          793.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.2447588200774633
+    ],
+    "candidate_count": 342,
+    "seconds": 0.23463088367134333
+  },
+  {
+    "name": "background01__patent001__frame_0166.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          660.0,
+          202.5
+        ],
+        [
+          1042.5,
+          189.375
+        ],
+        [
+          1080.0,
+          686.25
+        ],
+        [
+          615.0,
+          703.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.0742750544794153
+    ],
+    "candidate_count": 6,
+    "seconds": 0.2239500479772687
+  },
+  {
+    "name": "background01__patent002__frame_0146.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          727.5,
+          210.0
+        ],
+        [
+          1162.5,
+          226.875
+        ],
+        [
+          1155.0,
+          826.875
+        ],
+        [
+          645.0,
+          800.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.3069727419499662
+    ],
+    "candidate_count": 3,
+    "seconds": 0.2234236248768866
+  },
+  {
+    "name": "background01__patent003__frame_0115.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          817.5,
+          236.25
+        ],
+        [
+          1200.0,
+          168.75
+        ],
+        [
+          1447.5,
+          682.5
+        ],
+        [
+          1005.0,
+          793.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.0829745388890968
+    ],
+    "candidate_count": 2,
+    "seconds": 0.22415480902418494
+  },
+  {
+    "name": "background01__patent004__frame_0088.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          885.0,
+          193.125
+        ],
+        [
+          1275.0,
+          163.125
+        ],
+        [
+          1432.5,
+          716.25
+        ],
+        [
+          990.0,
+          770.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.0728109637022674
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22368636587634683
+  },
+  {
+    "name": "background01__patent005__frame_0122.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          840.0,
+          286.875
+        ],
+        [
+          1260.0,
+          223.125
+        ],
+        [
+          1447.5,
+          817.5
+        ],
+        [
+          960.0,
+          905.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.1885755703713927
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22367907594889402
+  },
+  {
+    "name": "background01__tax001__frame_0174.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          750.0,
+          172.5
+        ],
+        [
+          1170.0,
+          151.875
+        ],
+        [
+          1320.0,
+          720.0
+        ],
+        [
+          840.0,
+          783.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.1389127395470868
+    ],
+    "candidate_count": 6,
+    "seconds": 0.22628470789641142
+  },
+  {
+    "name": "background01__tax002__frame_0056.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          652.5,
+          193.125
+        ],
+        [
+          1125.0,
+          185.625
+        ],
+        [
+          1207.5,
+          821.25
+        ],
+        [
+          667.5,
+          860.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.327349692262747
+    ],
+    "candidate_count": 42,
+    "seconds": 0.2287290678359568
+  },
+  {
+    "name": "background01__tax003__frame_0041.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          795.0,
+          303.75
+        ],
+        [
+          1110.0,
+          264.375
+        ],
+        [
+          1230.0,
+          742.5
+        ],
+        [
+          892.5,
+          793.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.2190424893372334
+    ],
+    "candidate_count": 54,
+    "seconds": 0.22579975612461567
+  },
+  {
+    "name": "background01__tax004__frame_0115.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          960.0,
+          243.75
+        ],
+        [
+          1342.5,
+          202.5
+        ],
+        [
+          1537.5,
+          733.125
+        ],
+        [
+          1087.5,
+          796.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.0164006235094263
+    ],
+    "candidate_count": 7,
+    "seconds": 0.22402319824323058
+  },
+  {
+    "name": "background01__tax005__frame_0054.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          382.5,
+          193.125
+        ],
+        [
+          787.5,
+          155.625
+        ],
+        [
+          915.0,
+          708.75
+        ],
+        [
+          412.5,
+          780.0
+        ]
+      ]
+    ],
+    "scores": [
+      0.9333563455210628
+    ],
+    "candidate_count": 122,
+    "seconds": 0.2293211310170591
+  },
+  {
+    "name": "background02__datasheet001__frame_0172.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          817.5,
+          185.625
+        ],
+        [
+          1237.5,
+          159.375
+        ],
+        [
+          1342.5,
+          716.25
+        ],
+        [
+          855.0,
+          753.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.1494394064649327
+    ],
+    "candidate_count": 10,
+    "seconds": 0.22450854117050767
+  },
+  {
+    "name": "background02__datasheet002__frame_0083.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          855.0,
+          523.125
+        ],
+        [
+          1095.0,
+          543.75
+        ],
+        [
+          1095.0,
+          648.75
+        ],
+        [
+          847.5,
+          631.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.0743015007870587
+    ],
+    "candidate_count": 14,
+    "seconds": 0.22540014423429966
+  },
+  {
+    "name": "background02__datasheet003__frame_0045.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          840.0,
+          303.75
+        ],
+        [
+          1177.5,
+          240.0
+        ],
+        [
+          1402.5,
+          691.875
+        ],
+        [
+          997.5,
+          780.0
+        ]
+      ]
+    ],
+    "scores": [
+      1.0972159947373086
+    ],
+    "candidate_count": 34,
+    "seconds": 0.22381037706509233
+  },
+  {
+    "name": "background02__datasheet004__frame_0062.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          795.0,
+          236.25
+        ],
+        [
+          1162.5,
+          240.0
+        ],
+        [
+          1215.0,
+          776.25
+        ],
+        [
+          787.5,
+          780.0
+        ]
+      ]
+    ],
+    "scores": [
+      1.2457437718126347
+    ],
+    "candidate_count": 98,
+    "seconds": 0.22908081021159887
+  },
+  {
+    "name": "background02__datasheet005__frame_0010.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          757.5,
+          307.5
+        ],
+        [
+          1080.0,
+          328.125
+        ],
+        [
+          1110.0,
+          766.875
+        ],
+        [
+          727.5,
+          753.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.210484768706653
+    ],
+    "candidate_count": 10,
+    "seconds": 0.22704576095566154
+  },
+  {
+    "name": "background02__letter001__frame_0017.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          795.0,
+          286.875
+        ],
+        [
+          1177.5,
+          290.625
+        ],
+        [
+          1237.5,
+          800.625
+        ],
+        [
+          780.0,
+          804.375
+        ]
+      ]
+    ],
+    "scores": [
+      1.2598485484836912
+    ],
+    "candidate_count": 1,
+    "seconds": 0.2232578848488629
+  },
+  {
+    "name": "background02__letter002__frame_0041.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          892.5,
+          256.875
+        ],
+        [
+          1245.0,
+          311.25
+        ],
+        [
+          1215.0,
+          780.0
+        ],
+        [
+          780.0,
+          708.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.164081178618322
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22325203381478786
+  },
+  {
+    "name": "background02__letter003__frame_0128.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          832.5,
+          286.875
+        ],
+        [
+          1185.0,
+          281.25
+        ],
+        [
+          1282.5,
+          712.5
+        ],
+        [
+          862.5,
+          725.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.1422896439616748
+    ],
+    "candidate_count": 2,
+    "seconds": 0.2260687369853258
+  },
+  {
+    "name": "background02__letter004__frame_0092.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          742.5,
+          286.875
+        ],
+        [
+          1155.0,
+          270.0
+        ],
+        [
+          1290.0,
+          776.25
+        ],
+        [
+          757.5,
+          813.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.2636089418476135
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22530437307432294
+  },
+  {
+    "name": "background02__letter005__frame_0197.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          900.0,
+          286.875
+        ],
+        [
+          1252.5,
+          243.75
+        ],
+        [
+          1395.0,
+          686.25
+        ],
+        [
+          960.0,
+          736.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.0501690348205628
+    ],
+    "candidate_count": 1,
+    "seconds": 0.2261117771267891
+  },
+  {
+    "name": "background02__magazine001__frame_0125.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          795.0,
+          196.875
+        ],
+        [
+          1222.5,
+          172.5
+        ],
+        [
+          1297.5,
+          776.25
+        ],
+        [
+          825.0,
+          810.0
+        ]
+      ]
+    ],
+    "scores": [
+      1.2554487643860135
+    ],
+    "candidate_count": 46,
+    "seconds": 0.2272193511016667
+  },
+  {
+    "name": "background02__magazine002__frame_0134.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          787.5,
+          331.875
+        ],
+        [
+          1095.0,
+          294.375
+        ],
+        [
+          1252.5,
+          729.375
+        ],
+        [
+          840.0,
+          793.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.179115546957987
+    ],
+    "candidate_count": 21,
+    "seconds": 0.22600191598758101
+  },
+  {
+    "name": "background02__magazine003__frame_0055.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          502.5,
+          433.125
+        ],
+        [
+          885.0,
+          354.375
+        ],
+        [
+          1012.5,
+          691.875
+        ],
+        [
+          585.0,
+          796.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.0012508650282488
+    ],
+    "candidate_count": 8,
+    "seconds": 0.22746316296979785
+  },
+  {
+    "name": "background02__magazine004__frame_0034.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          900.0,
+          260.625
+        ],
+        [
+          1230.0,
+          341.25
+        ],
+        [
+          1185.0,
+          763.125
+        ],
+        [
+          780.0,
+          669.375
+        ]
+      ]
+    ],
+    "scores": [
+      1.1465500804234416
+    ],
+    "candidate_count": 7,
+    "seconds": 0.22572202514857054
+  },
+  {
+    "name": "background02__magazine005__frame_0093.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          960.0,
+          315.0
+        ],
+        [
+          1200.0,
+          307.5
+        ],
+        [
+          1260.0,
+          729.375
+        ],
+        [
+          975.0,
+          733.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.0698941239390338
+    ],
+    "candidate_count": 95,
+    "seconds": 0.22789826476946473
+  },
+  {
+    "name": "background02__paper001__frame_0057.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          780.0,
+          281.25
+        ],
+        [
+          1140.0,
+          273.75
+        ],
+        [
+          1207.5,
+          729.375
+        ],
+        [
+          825.0,
+          742.5
+        ]
+      ]
+    ],
+    "scores": [
+      1.2306978384950993
+    ],
+    "candidate_count": 26,
+    "seconds": 0.2252203831449151
+  },
+  {
+    "name": "background02__paper002__frame_0087.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          885.0,
+          337.5
+        ],
+        [
+          1230.0,
+          298.125
+        ],
+        [
+          1305.0,
+          716.25
+        ],
+        [
+          937.5,
+          746.25
+        ]
+      ]
+    ],
+    "scores": [
+      1.123947633201803
+    ],
+    "candidate_count": 62,
+    "seconds": 0.22644663928076625
+  },
+  {
+    "name": "background02__paper003__frame_0087.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          967.5,
+          307.5
+        ],
+        [
+          1305.0,
+          281.25
+        ],
+        [
+          1380.0,
+          753.75
+        ],
+        [
+          945.0,
+          763.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.0425627198967435
+    ],
+    "candidate_count": 110,
+    "seconds": 0.22869731904938817
+  },
+  {
+    "name": "background02__paper004__frame_0042.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          915.0,
+          311.25
+        ],
+        [
+          1207.5,
+          341.25
+        ],
+        [
+          1215.0,
+          750.0
+        ],
+        [
+          870.0,
+          712.5
+        ]
+      ]
+    ],
+    "scores": [
+      1.127866807522059
+    ],
+    "candidate_count": 12,
+    "seconds": 0.22420620918273926
+  },
+  {
+    "name": "background02__paper005__frame_0017.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          825.0,
+          270.0
+        ],
+        [
+          1170.0,
+          260.625
+        ],
+        [
+          1260.0,
+          703.125
+        ],
+        [
+          862.5,
+          720.0
+        ]
+      ]
+    ],
+    "scores": [
+      1.146254936864855
+    ],
+    "candidate_count": 9,
+    "seconds": 0.2242248491384089
+  },
+  {
+    "name": "background02__patent001__frame_0061.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          877.5,
+          273.75
+        ],
+        [
+          1230.0,
+          277.5
+        ],
+        [
+          1312.5,
+          746.25
+        ],
+        [
+          885.0,
+          750.0
+        ]
+      ]
+    ],
+    "scores": [
+      1.1330975800882603
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22436650888994336
+  },
+  {
+    "name": "background02__patent002__frame_0063.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          907.5,
+          281.25
+        ],
+        [
+          1245.0,
+          243.75
+        ],
+        [
+          1410.0,
+          641.25
+        ],
+        [
+          1065.0,
+          691.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.0009140934588159
+    ],
+    "candidate_count": 6,
+    "seconds": 0.22525404300540686
+  },
+  {
+    "name": "background02__patent003__frame_0108.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          997.5,
+          294.375
+        ],
+        [
+          1290.0,
+          371.25
+        ],
+        [
+          1327.5,
+          746.25
+        ],
+        [
+          982.5,
+          669.375
+        ]
+      ]
+    ],
+    "scores": [
+      1.0188207612333462
+    ],
+    "candidate_count": 1,
+    "seconds": 0.2289077090099454
+  },
+  {
+    "name": "background02__patent004__frame_0168.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          840.0,
+          223.125
+        ],
+        [
+          1185.0,
+          202.5
+        ],
+        [
+          1297.5,
+          661.875
+        ],
+        [
+          885.0,
+          695.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.0616830745525507
+    ],
+    "candidate_count": 2,
+    "seconds": 0.22312724404037
+  },
+  {
+    "name": "background02__patent005__frame_0109.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          945.0,
+          193.125
+        ],
+        [
+          1342.5,
+          243.75
+        ],
+        [
+          1507.5,
+          703.125
+        ],
+        [
+          982.5,
+          669.375
+        ]
+      ]
+    ],
+    "scores": [
+      0.9571447949066106
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22486845217645168
+  },
+  {
+    "name": "background02__tax001__frame_0049.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          907.5,
+          294.375
+        ],
+        [
+          1207.5,
+          286.875
+        ],
+        [
+          1267.5,
+          661.875
+        ],
+        [
+          915.0,
+          669.375
+        ]
+      ]
+    ],
+    "scores": [
+      1.0516474019410167
+    ],
+    "candidate_count": 2,
+    "seconds": 0.2276962543837726
+  },
+  {
+    "name": "background02__tax002__frame_0180.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          855.0,
+          328.125
+        ],
+        [
+          1170.0,
+          307.5
+        ],
+        [
+          1365.0,
+          733.125
+        ],
+        [
+          952.5,
+          766.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.0855614886893743
+    ],
+    "candidate_count": 10,
+    "seconds": 0.22633443819358945
+  },
+  {
+    "name": "background02__tax003__frame_0067.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          870.0,
+          311.25
+        ],
+        [
+          1185.0,
+          226.875
+        ],
+        [
+          1440.0,
+          631.875
+        ],
+        [
+          1065.0,
+          753.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.0184130348994922
+    ],
+    "candidate_count": 39,
+    "seconds": 0.22679726965725422
+  },
+  {
+    "name": "background02__tax004__frame_0071.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          885.0,
+          253.125
+        ],
+        [
+          1252.5,
+          223.125
+        ],
+        [
+          1387.5,
+          733.125
+        ],
+        [
+          960.0,
+          776.25
+        ]
+      ]
+    ],
+    "scores": [
+      1.112936937270107
+    ],
+    "candidate_count": 10,
+    "seconds": 0.22424585884436965
+  },
+  {
+    "name": "background02__tax005__frame_0002.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          757.5,
+          416.25
+        ],
+        [
+          1087.5,
+          358.125
+        ],
+        [
+          1252.5,
+          682.5
+        ],
+        [
+          870.0,
+          776.25
+        ]
+      ]
+    ],
+    "scores": [
+      1.1568681953605309
+    ],
+    "candidate_count": 163,
+    "seconds": 0.23023140477016568
+  },
+  {
+    "name": "background03__datasheet001__frame_0187.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          847.5,
+          223.125
+        ],
+        [
+          1237.5,
+          196.875
+        ],
+        [
+          1387.5,
+          708.75
+        ],
+        [
+          930.0,
+          753.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.1126466424657264
+    ],
+    "candidate_count": 9,
+    "seconds": 0.22453909972682595
+  },
+  {
+    "name": "background03__datasheet002__frame_0180.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          705.0,
+          243.75
+        ],
+        [
+          1132.5,
+          185.625
+        ],
+        [
+          1267.5,
+          763.125
+        ],
+        [
+          802.5,
+          838.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.312049763917463
+    ],
+    "candidate_count": 20,
+    "seconds": 0.2236705170944333
+  },
+  {
+    "name": "background03__datasheet003__frame_0111.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          727.5,
+          345.0
+        ],
+        [
+          1155.0,
+          311.25
+        ],
+        [
+          1297.5,
+          770.625
+        ],
+        [
+          780.0,
+          826.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.232752895853534
+    ],
+    "candidate_count": 50,
+    "seconds": 0.2261707573197782
+  },
+  {
+    "name": "background03__datasheet004__frame_0109.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          847.5,
+          260.625
+        ],
+        [
+          1230.0,
+          196.875
+        ],
+        [
+          1432.5,
+          720.0
+        ],
+        [
+          990.0,
+          813.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.1280095902450629
+    ],
+    "candidate_count": 48,
+    "seconds": 0.22687484975904226
+  },
+  {
+    "name": "background03__datasheet005__frame_0184.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          735.0,
+          328.125
+        ],
+        [
+          1087.5,
+          290.625
+        ],
+        [
+          1237.5,
+          725.625
+        ],
+        [
+          832.5,
+          796.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.2254127899255822
+    ],
+    "candidate_count": 7,
+    "seconds": 0.22542507434263825
+  },
+  {
+    "name": "background03__letter001__frame_0052.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          765.0,
+          277.5
+        ],
+        [
+          1170.0,
+          256.875
+        ],
+        [
+          1327.5,
+          770.625
+        ],
+        [
+          832.5,
+          821.25
+        ]
+      ]
+    ],
+    "scores": [
+      1.2414585175099184
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22346181608736515
+  },
+  {
+    "name": "background03__letter002__frame_0008.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          772.5,
+          286.875
+        ],
+        [
+          1155.0,
+          253.125
+        ],
+        [
+          1290.0,
+          753.75
+        ],
+        [
+          847.5,
+          813.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.2386131538687075
+    ],
+    "candidate_count": 1,
+    "seconds": 0.2236145962961018
+  },
+  {
+    "name": "background03__letter003__frame_0057.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          682.5,
+          311.25
+        ],
+        [
+          1057.5,
+          281.25
+        ],
+        [
+          1140.0,
+          763.125
+        ],
+        [
+          690.0,
+          804.375
+        ]
+      ]
+    ],
+    "scores": [
+      1.2112290263725636
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22777607385069132
+  },
+  {
+    "name": "background03__letter004__frame_0121.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          727.5,
+          253.125
+        ],
+        [
+          1132.5,
+          176.25
+        ],
+        [
+          1312.5,
+          729.375
+        ],
+        [
+          877.5,
+          834.375
+        ]
+      ]
+    ],
+    "scores": [
+      1.231927321425999
+    ],
+    "candidate_count": 4,
+    "seconds": 0.22421238804236054
+  },
+  {
+    "name": "background03__letter005__frame_0050.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          795.0,
+          320.625
+        ],
+        [
+          1155.0,
+          307.5
+        ],
+        [
+          1252.5,
+          750.0
+        ],
+        [
+          817.5,
+          776.25
+        ]
+      ]
+    ],
+    "scores": [
+      1.210881653023971
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22676674043759704
+  },
+  {
+    "name": "background03__magazine001__frame_0163.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          825.0,
+          315.0
+        ],
+        [
+          1185.0,
+          286.875
+        ],
+        [
+          1305.0,
+          725.625
+        ],
+        [
+          877.5,
+          766.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.1639770724088763
+    ],
+    "candidate_count": 71,
+    "seconds": 0.22702777106314898
+  },
+  {
+    "name": "background03__magazine002__frame_0151.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          825.0,
+          223.125
+        ],
+        [
+          1177.5,
+          243.75
+        ],
+        [
+          1245.0,
+          708.75
+        ],
+        [
+          825.0,
+          675.0
+        ]
+      ]
+    ],
+    "scores": [
+      1.102525553520629
+    ],
+    "candidate_count": 12,
+    "seconds": 0.22582216560840607
+  },
+  {
+    "name": "background03__magazine003__frame_0133.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          817.5,
+          311.25
+        ],
+        [
+          1192.5,
+          273.75
+        ],
+        [
+          1305.0,
+          691.875
+        ],
+        [
+          885.0,
+          733.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.1567288426548805
+    ],
+    "candidate_count": 18,
+    "seconds": 0.2246558009646833
+  },
+  {
+    "name": "background03__magazine004__frame_0171.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          622.5,
+          264.375
+        ],
+        [
+          1035.0,
+          213.75
+        ],
+        [
+          1215.0,
+          753.75
+        ],
+        [
+          772.5,
+          860.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.2025344944677425
+    ],
+    "candidate_count": 32,
+    "seconds": 0.2270432012155652
+  },
+  {
+    "name": "background03__magazine005__frame_0172.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          787.5,
+          226.875
+        ],
+        [
+          1110.0,
+          176.25
+        ],
+        [
+          1230.0,
+          746.25
+        ],
+        [
+          877.5,
+          804.375
+        ]
+      ]
+    ],
+    "scores": [
+      1.2152802300169596
+    ],
+    "candidate_count": 86,
+    "seconds": 0.22772396402433515
+  },
+  {
+    "name": "background03__paper001__frame_0020.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          645.0,
+          328.125
+        ],
+        [
+          1005.0,
+          213.75
+        ],
+        [
+          1297.5,
+          675.0
+        ],
+        [
+          930.0,
+          847.5
+        ]
+      ]
+    ],
+    "scores": [
+      1.1813836798571575
+    ],
+    "candidate_count": 9,
+    "seconds": 0.22583921579644084
+  },
+  {
+    "name": "background03__paper002__frame_0166.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          607.5,
+          260.625
+        ],
+        [
+          1087.5,
+          176.25
+        ],
+        [
+          1290.0,
+          793.125
+        ],
+        [
+          765.0,
+          915.0
+        ]
+      ]
+    ],
+    "scores": [
+      1.3749038349871814
+    ],
+    "candidate_count": 67,
+    "seconds": 0.22689518984407187
+  },
+  {
+    "name": "background03__paper003__frame_0004.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          697.5,
+          213.75
+        ],
+        [
+          1170.0,
+          193.125
+        ],
+        [
+          1312.5,
+          810.0
+        ],
+        [
+          795.0,
+          871.875
+        ]
+      ]
+    ],
+    "scores": [
+      1.3091655410725447
+    ],
+    "candidate_count": 8,
+    "seconds": 0.22538196295499802
+  },
+  {
+    "name": "background03__paper004__frame_0052.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          690.0,
+          307.5
+        ],
+        [
+          1095.0,
+          303.75
+        ],
+        [
+          1192.5,
+          813.75
+        ],
+        [
+          675.0,
+          834.375
+        ]
+      ]
+    ],
+    "scores": [
+      1.223953890556664
+    ],
+    "candidate_count": 78,
+    "seconds": 0.22723533166572452
+  },
+  {
+    "name": "background03__paper005__frame_0163.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          675.0,
+          303.75
+        ],
+        [
+          1065.0,
+          230.625
+        ],
+        [
+          1312.5,
+          720.0
+        ],
+        [
+          862.5,
+          838.125
+        ]
+      ]
+    ],
+    "scores": [
+      1.251136443775221
+    ],
+    "candidate_count": 10,
+    "seconds": 0.22559687495231628
+  },
+  {
+    "name": "background03__patent001__frame_0208.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          727.5,
+          193.125
+        ],
+        [
+          1177.5,
+          163.125
+        ],
+        [
+          1305.0,
+          766.875
+        ],
+        [
+          750.0,
+          813.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.2628851050285372
+    ],
+    "candidate_count": 5,
+    "seconds": 0.22484017070382833
+  },
+  {
+    "name": "background03__patent002__frame_0166.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          840.0,
+          331.875
+        ],
+        [
+          1147.5,
+          253.125
+        ],
+        [
+          1425.0,
+          624.375
+        ],
+        [
+          1087.5,
+          750.0
+        ]
+      ]
+    ],
+    "scores": [
+      0.991805741384291
+    ],
+    "candidate_count": 2,
+    "seconds": 0.22426768904551864
+  },
+  {
+    "name": "background03__patent003__frame_0062.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          742.5,
+          240.0
+        ],
+        [
+          1125.0,
+          260.625
+        ],
+        [
+          1117.5,
+          746.25
+        ],
+        [
+          660.0,
+          716.25
+        ]
+      ]
+    ],
+    "scores": [
+      1.1782267906852002
+    ],
+    "candidate_count": 2,
+    "seconds": 0.22526384284719825
+  },
+  {
+    "name": "background03__patent004__frame_0152.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          720.0,
+          240.0
+        ],
+        [
+          1102.5,
+          172.5
+        ],
+        [
+          1387.5,
+          678.75
+        ],
+        [
+          930.0,
+          810.0
+        ]
+      ]
+    ],
+    "scores": [
+      1.122059077857302
+    ],
+    "candidate_count": 3,
+    "seconds": 0.22521968325600028
+  },
+  {
+    "name": "background03__patent005__frame_0075.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          727.5,
+          286.875
+        ],
+        [
+          1102.5,
+          290.625
+        ],
+        [
+          1155.0,
+          770.625
+        ],
+        [
+          675.0,
+          770.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.212810856727247
+    ],
+    "candidate_count": 1,
+    "seconds": 0.22530118329450488
+  },
+  {
+    "name": "background03__tax001__frame_0075.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          750.0,
+          118.125
+        ],
+        [
+          1215.0,
+          108.75
+        ],
+        [
+          1320.0,
+          750.0
+        ],
+        [
+          787.5,
+          783.75
+        ]
+      ]
+    ],
+    "scores": [
+      1.2025576148501185
+    ],
+    "candidate_count": 24,
+    "seconds": 0.22646043822169304
+  },
+  {
+    "name": "background03__tax002__frame_0097.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          862.5,
+          247.5
+        ],
+        [
+          1230.0,
+          210.0
+        ],
+        [
+          1387.5,
+          746.25
+        ],
+        [
+          967.5,
+          800.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.1427092355706112
+    ],
+    "candidate_count": 25,
+    "seconds": 0.2264770781621337
+  },
+  {
+    "name": "background03__tax003__frame_0150.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          982.5,
+          281.25
+        ],
+        [
+          1335.0,
+          294.375
+        ],
+        [
+          1260.0,
+          793.125
+        ],
+        [
+          825.0,
+          742.5
+        ]
+      ]
+    ],
+    "scores": [
+      1.0888179198673393
+    ],
+    "candidate_count": 10,
+    "seconds": 0.22538456413894892
+  },
+  {
+    "name": "background03__tax004__frame_0040.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          787.5,
+          264.375
+        ],
+        [
+          1155.0,
+          281.25
+        ],
+        [
+          1252.5,
+          763.125
+        ],
+        [
+          817.5,
+          770.625
+        ]
+      ]
+    ],
+    "scores": [
+      1.2070138704631959
+    ],
+    "candidate_count": 2,
+    "seconds": 0.22653276892378926
+  },
+  {
+    "name": "background03__tax005__frame_0192.jpeg",
+    "dataset": "smartdoc90",
+    "polygons_px": [
+      [
+        [
+          900.0,
+          328.125
+        ],
+        [
+          1222.5,
+          307.5
+        ],
+        [
+          1350.0,
+          725.625
+        ],
+        [
+          937.5,
+          746.25
+        ]
+      ]
+    ],
+    "scores": [
+      1.0654858132879574
+    ],
+    "candidate_count": 8,
+    "seconds": 0.22599637601524591
+  }
+]

@@ -1,0 +1,451 @@
+{
+  "version": "1.0",
+  "status": "passed",
+  "configuration": "Per-method files in parameters/ plus shared_geometry.json",
+  "inference_evaluation": [
+    {
+      "dataset": "robotathome80",
+      "method": "ridge-fld",
+      "all_five_metrics_match_4dp": true,
+      "tp": 96,
+      "fp": 39,
+      "fn": 50
+    },
+    {
+      "dataset": "robotathome80",
+      "method": "ridge-airline",
+      "all_five_metrics_match_4dp": true,
+      "tp": 84,
+      "fp": 27,
+      "fn": 62
+    },
+    {
+      "dataset": "robotathome80",
+      "method": "ridge-roi",
+      "all_five_metrics_match_4dp": true,
+      "tp": 89,
+      "fp": 31,
+      "fn": 57
+    },
+    {
+      "dataset": "robotathome80",
+      "method": "ridge-yolo",
+      "all_five_metrics_match_4dp": true,
+      "tp": 114,
+      "fp": 24,
+      "fn": 32
+    },
+    {
+      "dataset": "robotathome80",
+      "method": "yolo-br",
+      "all_five_metrics_match_4dp": true,
+      "tp": 129,
+      "fp": 88,
+      "fn": 17
+    },
+    {
+      "dataset": "robotathome80",
+      "method": "mlsd",
+      "all_five_metrics_match_4dp": true,
+      "tp": 59,
+      "fp": 55,
+      "fn": 87
+    },
+    {
+      "dataset": "isaacsim50",
+      "method": "ridge-fld",
+      "all_five_metrics_match_4dp": true,
+      "tp": 48,
+      "fp": 20,
+      "fn": 28
+    },
+    {
+      "dataset": "isaacsim50",
+      "method": "ridge-airline",
+      "all_five_metrics_match_4dp": true,
+      "tp": 54,
+      "fp": 23,
+      "fn": 22
+    },
+    {
+      "dataset": "isaacsim50",
+      "method": "ridge-roi",
+      "all_five_metrics_match_4dp": true,
+      "tp": 52,
+      "fp": 15,
+      "fn": 24
+    },
+    {
+      "dataset": "isaacsim50",
+      "method": "ridge-yolo",
+      "all_five_metrics_match_4dp": true,
+      "tp": 49,
+      "fp": 10,
+      "fn": 27
+    },
+    {
+      "dataset": "isaacsim50",
+      "method": "yolo-br",
+      "all_five_metrics_match_4dp": true,
+      "tp": 63,
+      "fp": 11,
+      "fn": 13
+    },
+    {
+      "dataset": "isaacsim50",
+      "method": "mlsd",
+      "all_five_metrics_match_4dp": true,
+      "tp": 43,
+      "fp": 19,
+      "fn": 33
+    },
+    {
+      "dataset": "smartdoc90",
+      "method": "ridge-fld",
+      "all_five_metrics_match_4dp": true,
+      "tp": 82,
+      "fp": 7,
+      "fn": 8
+    },
+    {
+      "dataset": "smartdoc90",
+      "method": "ridge-airline",
+      "all_five_metrics_match_4dp": true,
+      "tp": 71,
+      "fp": 2,
+      "fn": 19
+    },
+    {
+      "dataset": "smartdoc90",
+      "method": "ridge-roi",
+      "all_five_metrics_match_4dp": true,
+      "tp": 77,
+      "fp": 2,
+      "fn": 13
+    },
+    {
+      "dataset": "smartdoc90",
+      "method": "ridge-yolo",
+      "all_five_metrics_match_4dp": true,
+      "tp": 89,
+      "fp": 0,
+      "fn": 1
+    },
+    {
+      "dataset": "smartdoc90",
+      "method": "yolo-br",
+      "all_five_metrics_match_4dp": true,
+      "tp": 82,
+      "fp": 0,
+      "fn": 8
+    },
+    {
+      "dataset": "smartdoc90",
+      "method": "mlsd",
+      "all_five_metrics_match_4dp": true,
+      "tp": 89,
+      "fp": 1,
+      "fn": 1
+    }
+  ],
+  "exact_reference_comparisons": [
+    {
+      "case": "mlsd__isaacsim50",
+      "images": 50,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "mlsd__robotathome80",
+      "images": 80,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "mlsd__smartdoc90",
+      "images": 90,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-airline__isaacsim50",
+      "images": 50,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-airline__robotathome80",
+      "images": 80,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-airline__smartdoc90",
+      "images": 90,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-fld__isaacsim50",
+      "images": 50,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-fld__robotathome80",
+      "images": 80,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-fld__smartdoc90",
+      "images": 90,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-roi__isaacsim50",
+      "images": 50,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-roi__robotathome80",
+      "images": 80,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-roi__smartdoc90",
+      "images": 90,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-yolo__isaacsim50",
+      "images": 50,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-yolo__robotathome80",
+      "images": 80,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "ridge-yolo__smartdoc90",
+      "images": 90,
+      "coordinates_exact": true,
+      "scores_exported": true,
+      "scores_exact": true
+    },
+    {
+      "case": "yolo-br__isaacsim50",
+      "images": 50,
+      "coordinates_exact": true,
+      "scores_exported": false,
+      "scores_exact": null
+    },
+    {
+      "case": "yolo-br__robotathome80",
+      "images": 80,
+      "coordinates_exact": true,
+      "scores_exported": false,
+      "scores_exact": null
+    },
+    {
+      "case": "yolo-br__smartdoc90",
+      "images": 90,
+      "coordinates_exact": true,
+      "scores_exported": false,
+      "scores_exact": null
+    }
+  ],
+  "airline_frontend": {
+    "mode": "fresh neural inference",
+    "images": 220,
+    "native_extension_compiled": true
+  },
+  "runtime_environment": {
+    "python": "3.12.3",
+    "platform": "Linux-6.17.0-40-generic-x86_64-with-glibc2.39",
+    "numpy": "1.26.4",
+    "opencv": "4.12.0",
+    "torch": "2.8.0+cu128",
+    "scipy": "1.16.1",
+    "shapely": "2.1.2",
+    "ultralytics": "8.3.232",
+    "cuda_device": "NVIDIA GeForce RTX 5090"
+  },
+  "environment_installation": "Validated in the existing recorded Linux runtime; fresh pip environment installation was not rerun.",
+  "verification_scope": "All six detectors were rerun on all three datasets. All 18 predicted-coordinate sets match the references exactly. All 15 cases that export scores match those scores exactly; YOLO-BR does not export a score field. All five table metrics match at four decimals. The five graph kernels and AirLine CRG extension were compiled from code/native; AirLine ran the fresh neural frontend. Current detector executable ASTs, native sources and parameters match the inference-tested sources. The current evaluator was checked on all 18 cases from the extracted final archive. Asset preparation passed with and without the optional frontend cache.",
+  "common_import_resolution": "code/common",
+  "current_source_sha256": {
+    "code/mlsd.py": "153acd608dfa18f78ea5d44ec2d11039b94992cbfd364883ed2b712433d43a89",
+    "code/ridge-airline.py": "3f3596fc4d88ed3a5eaa08e3388f348e64cb7a588cfc78524498ee5fe1c7b15c",
+    "code/ridge-fld.py": "fbdda6f3fde8280b60732030386a1c836929481e9a27924c518b74e43973c8d7",
+    "code/ridge-roi.py": "553802c04ed196439c68ca7560d71b450dfc3516ee699753e3f45a752b8f96b7",
+    "code/ridge-yolo.py": "fd26091217cb47bffa42d69d233f46bf16dd261dfd211bdd4e7cb114825cf8b8",
+    "code/yolo-br.py": "3d9c27da5f8a9477a9186d2110b476a69d5ed221f8f91e78e88db9ae11e5d9e7",
+    "code/common/configuration.py": "afd1c2a53f5f7f11139df63822d94c5dfdf7103e792991047da9cf8f65e35528",
+    "code/common/datasets.py": "bf56bb27eb83280b89cccf3242cc37b854d714507e8063287f5cff1e81d8da33",
+    "code/common/runtime.py": "4ba335e1d79895c9778f21c412c14af9eed922880f4f1f485e9ca0cc39a611b8",
+    "code/common/__init__.py": "413c87e5265911556a10913f563fd85e3f7295c8ebdb8f258ff51d95f2f3d663",
+    "code/common/graph/candidates.py": "1b2a595517c89b89494395cfecd8b3981ce95ec37f6eeac427405d17ab614494",
+    "code/common/graph/fast_airline.py": "4e939bb03b8466734a13bc132f21a994c0ae87e2819addd16025a553713a22df",
+    "code/common/graph/fast_fld.py": "5a73a4aabbe794e59d0fe2640564261974cffa4f9e8eedfd8591482ae01d5559",
+    "code/common/graph/features.py": "86e2701526d226d3320c11ab3b0d6370178fae345aa9d8142f4f1c852c1418c3",
+    "code/common/graph/fld_geometry.py": "f1efdc3d7614e4d4e4fe28f84b5cd01559056ba08b7b1dbec1cc4ae73002aeab",
+    "code/common/graph/geometry.py": "142cd212d73818d9c3b5e98f4dea718bcde8f77bfbaa400dec1ddbf06f5c8fb4",
+    "code/common/graph/selection.py": "17bef9af403a0e25756bacf4427e7bea224d63dedb2c1a4d4c1b29e87149c53d",
+    "code/common/graph/__init__.py": "413c87e5265911556a10913f563fd85e3f7295c8ebdb8f258ff51d95f2f3d663",
+    "code/native/airline/CRGandLP_fixed.cpp": "dd4fff74c81eef37798812caaa38a4f0e2b5abf19b6d3773b4033c9526edc3f2",
+    "code/native/graph/cycles.cpp": "5d804d9efdfe791dfc47ed9bea213093fbd97d2b2d75cffdd226d7031848bef6",
+    "code/native/graph/cycles_fld.cpp": "fc6867f2a850dbc50aea883a97838e45060de12f98105161e06a63be9e04086e",
+    "code/native/graph/graph_support.cpp": "e2defb11a659846d3b4590b0e923162668c0372a9f097e6f0443f679cca36340",
+    "code/native/graph/centroid/cycles.cpp": "c79bfde11f0bbef1d0f8d9722d23220ba03bddb005df8a96daeb46e0c312b6d5",
+    "code/native/graph/centroid/cycles_fld.cpp": "6049f8fc85edc71e90b4639b3667f1c30b23323464cc8c9c72715ca2d21cdaa2",
+    "scripts/evaluate_results.py": "88e9177f45a59868c044be2436b4cf8241f5bb24881d482ceedae987851597c6",
+    "scripts/prepare_assets.py": "18bcf6744b4d7e549cc01d3b61def5867fa26d7a99c0e32e47d4d5067e556d70",
+    "scripts/reproduce.py": "38ac584529a53b8b9ab3342e5fff7cdc6b1cb1ab76a5d4b20273d79a5fc92665",
+    "scripts/run_shared_ridge.py": "44e2daa3a0e0e5af42075be748973654d0f276ccb76c05ce920ac7714f3e2a89",
+    "scripts/verify_bundle.py": "9c15c1761eef6d22e33a7400b7ae25f6e45033324ea1be18f60d3892cbc4a8df",
+    "parameters/mlsd.json": "5ef2dc822ead2e3bb4b6a59d5fa2ae6574c1fd6742ad19a6ef39d0c06d348e60",
+    "parameters/ridge-airline.json": "ba94f33a1a59ce51d253847bb9c3fbecb4252e9a61c026bd4cbc1f792f5b5306",
+    "parameters/ridge-fld.json": "a958c5edd4105c1769574c7aab5b04f07dfc168bfb8420785f52e82bb06586db",
+    "parameters/ridge-roi.json": "0940e3effd5cc48d2df9ce1de12e7465960c9cf730d2b00fde854627b5f1e25b",
+    "parameters/ridge-yolo.json": "ac4fa5e550862b165d73f98d1768fc73c12b3204f68ebb44f4b080db47926757",
+    "parameters/shared_geometry.json": "70839848aa131cb2b9871ecf22ea6509a67ee18aca2d61f5bb14fc401f6b7358",
+    "parameters/yolo-br.json": "5b5f4b7d3270a7558a2946b7e93b7b03d6640511831bda876e6cb5a41e402046",
+    "evaluation/evaluate.py": "401c81ce5be817799f8171b6e6857b2ec1ff99bf1cd4461b2c5d3e7dc78f948d",
+    "evaluation/Metricas_FLD.py": "556aabfad4de9c86cb6522fe472f168f4b289b4bb0775ab123366a54d4dd3a81",
+    "third_party/__init__.py": "dbc1f731feef3d6c9b0e766f06dbfba28e668fe8344aa1a1c738cc38f84364b5",
+    "third_party/dexined/model.py": "b189fe04e163c60f1e60b84c57d53665476ad86332bbb40e8f8d00eaeb548d9d",
+    "third_party/dexined/__init__.py": "dbc1f731feef3d6c9b0e766f06dbfba28e668fe8344aa1a1c738cc38f84364b5",
+    "third_party/mlsd/utils.py": "2e7caac40d7831f6a9b5e9ab97eed436d80f60dd03bf6d2572deac6277e4b15a",
+    "third_party/mlsd/__init__.py": "dbc1f731feef3d6c9b0e766f06dbfba28e668fe8344aa1a1c738cc38f84364b5"
+  },
+  "native_source_sha256": {
+    "code/native/airline/CRGandLP_fixed.cpp": "dd4fff74c81eef37798812caaa38a4f0e2b5abf19b6d3773b4033c9526edc3f2",
+    "code/native/graph/centroid/cycles.cpp": "c79bfde11f0bbef1d0f8d9722d23220ba03bddb005df8a96daeb46e0c312b6d5",
+    "code/native/graph/centroid/cycles_fld.cpp": "6049f8fc85edc71e90b4639b3667f1c30b23323464cc8c9c72715ca2d21cdaa2",
+    "code/native/graph/cycles.cpp": "5d804d9efdfe791dfc47ed9bea213093fbd97d2b2d75cffdd226d7031848bef6",
+    "code/native/graph/cycles_fld.cpp": "fc6867f2a850dbc50aea883a97838e45060de12f98105161e06a63be9e04086e",
+    "code/native/graph/graph_support.cpp": "e2defb11a659846d3b4590b0e923162668c0372a9f097e6f0443f679cca36340"
+  },
+  "dataset_annotations": {
+    "per_dataset_files": {
+      "robotathome80": {
+        "images": 80,
+        "rectangles": 146,
+        "categories": {
+          "audio_system": 1,
+          "cabinet": 6,
+          "cabinet_compartment": 8,
+          "cabinet_door": 10,
+          "cabinet_glass_pane": 1,
+          "canbinet_door": 2,
+          "canvas": 6,
+          "door_window": 1,
+          "drawer": 5,
+          "electrical_distribution_box": 1,
+          "microwave": 2,
+          "other": 1,
+          "picture": 19,
+          "picture_frame": 70,
+          "refrigerator": 4,
+          "screen": 3,
+          "television": 4,
+          "window": 2
+        },
+        "objects_without_detailed_semantics": 0,
+        "annotation_file": "dataset/images/robotathome80/annotations.json",
+        "semantic_annotations_available": true
+      },
+      "isaacsim50": {
+        "images": 50,
+        "rectangles": 76,
+        "objects_without_detailed_semantics": 76,
+        "annotation_file": "dataset/images/isaacsim50/annotations.json",
+        "semantic_annotations_available": false
+      },
+      "smartdoc90": {
+        "images": 90,
+        "rectangles": 90,
+        "objects_without_detailed_semantics": 90,
+        "annotation_file": "dataset/images/smartdoc90/annotations.json",
+        "semantic_annotations_available": false
+      }
+    },
+    "all_220_image_bytes_unchanged": true,
+    "all_312_quadrilaterals_and_object_order_unchanged": true,
+    "image_index_and_geometry_verified": true,
+    "root_directory": "dataset/"
+  },
+  "dataset_loading": {
+    "direct_archive_extraction": true,
+    "images": 220,
+    "quadrilaterals": 312,
+    "all_geometry_and_image_order_unchanged": true,
+    "all_image_hashes_match": true,
+    "inference_manifest_excludes_annotations": true,
+    "datasets": {
+      "robotathome80": {
+        "images": 80,
+        "quadrilaterals": 146,
+        "semantic_labels": 146
+      },
+      "isaacsim50": {
+        "images": 50,
+        "quadrilaterals": 76,
+        "semantic_labels": 0
+      },
+      "smartdoc90": {
+        "images": 90,
+        "quadrilaterals": 90,
+        "semantic_labels": 0
+      }
+    }
+  },
+  "reproduction_scope": [
+    "detector inference",
+    "quantitative evaluation"
+  ],
+  "asset_preparation": {
+    "without_cache": "passed",
+    "with_cache": "passed"
+  },
+  "inference_source_verification": {
+    "detector_executable_ast_matches_tested_sources": true,
+    "native_sources_match_tested_sources": true,
+    "parameters_match_tested_sources": true
+  },
+  "table_verification": {
+    "rows": 18,
+    "full_precision_csv": true,
+    "all_five_metrics_match_4dp": true,
+    "original_evaluator_function_bodies_preserved": true
+  },
+  "distribution": {
+    "repository": "https://github.com/ZhangZhenhaoUPM/IJIRA2026-Rectangle",
+    "dataset_included": true,
+    "model_release": "https://github.com/ZhangZhenhaoUPM/IJIRA2026-Rectangle/releases/tag/v1.0",
+    "model_archive_sha256": "97f7c2f9927bc6c64656b9368f34379d4ad45fefbd2881c44b635ef1496ac8c3",
+    "optional_cache_archive_sha256": "94c738d13883ed0c2d06f890d7ce6889cb367be17e3a5c0d741f0595afb2c583"
+  }
+}

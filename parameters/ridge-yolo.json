@@ -1,0 +1,29 @@
+{
+  "robotathome80": {
+    "ROI_PADDING_MIN": 3,
+    "model_conf": 0.55,
+    "model_nms": 0.45,
+    "checkpoint": "yolo-checkpoints/robotathome80.pt"
+  },
+  "isaacsim50": {
+    "LINE_WIDTH_FACTOR": 1.0,
+    "ROI_PADDING_MIN": 5,
+    "QUAD_NMS_IOU": 0.3,
+    "fld_gain": 0.75,
+    "model_conf": 0.085,
+    "model_nms": 0.3,
+    "checkpoint": "yolo-checkpoints/isaacsim50.pt"
+  },
+  "smartdoc90": {
+    "ROI_PADDING_RATIO": 0.1,
+    "MIN_IOU_WITH_BOX": 0.45,
+    "model_conf": 0.25,
+    "model_nms": 0.45,
+    "checkpoint": "yolo-checkpoints/smartdoc90.pt",
+    "fld_gain": 0.35,
+    "lengths": [
+      6,
+      6
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+-r requirements-eval.txt
+scipy==1.16.1
+ultralytics==8.3.232
+torch==2.8.0
+torchvision==0.23.0

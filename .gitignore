@@ -1,0 +1,11 @@
+.venv*/
+__pycache__/
+*.pyc
+yolo-checkpoints/
+other-checkpoints/
+results/
+replay*/
+*.pt
+*.pth
+*.tflite
+outputs/

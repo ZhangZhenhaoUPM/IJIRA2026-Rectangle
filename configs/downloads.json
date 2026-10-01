@@ -1,0 +1,17 @@
+{
+  "datasets": {
+    "included_in_repository": true,
+    "path": "dataset/"
+  },
+  "models": {
+    "archive": "models.zip",
+    "url": "https://github.com/ZhangZhenhaoUPM/IJIRA2026-Rectangle/releases/download/v1.0/models.zip",
+    "sha256": "97f7c2f9927bc6c64656b9368f34379d4ad45fefbd2881c44b635ef1496ac8c3"
+  },
+  "frontend_cache": {
+    "archive": "frontend_cache.zip",
+    "url": "https://github.com/ZhangZhenhaoUPM/IJIRA2026-Rectangle/releases/download/v1.0/frontend_cache.zip",
+    "sha256": "94c738d13883ed0c2d06f890d7ce6889cb367be17e3a5c0d741f0595afb2c583",
+    "optional": true
+  }
+}
